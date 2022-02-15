@@ -1,0 +1,32 @@
+﻿body {
+    background: green
+}
+
+.dot {
+    height: 6px;
+    width: 6px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 2px;
+    background-color: rgb(91, 92, 91);
+    border-radius: 50%;
+    display: inline-block
+}
+
+.name {
+    font-size: 14px
+}
+
+.date {
+    font-size: 12px
+}
+
+
+
+.comment-text {
+    font-size: 12px
+}
+
+.checked {
+    color: orange;
+}
